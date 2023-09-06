@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportyConnect", "SportyConnect.csproj", "{1B4749CE-30D8-44BF-B70B-2AE9D8DE2D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B4749CE-30D8-44BF-B70B-2AE9D8DE2D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4749CE-30D8-44BF-B70B-2AE9D8DE2D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4749CE-30D8-44BF-B70B-2AE9D8DE2D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4749CE-30D8-44BF-B70B-2AE9D8DE2D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9526C18-ED25-48D0-908A-CA7D785EF000}
+	EndGlobalSection
+EndGlobal
